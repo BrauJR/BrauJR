@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Brau 
 
-<!--
-**BrauJR/BrauJR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Soy Ingeniero en Tecnologías de la Información y Comunicaciones, egresado del Instituto Tecnológico de Puebla. Me especializo en el **desarrollo web** utilizando tecnologías y frameworks del ecosistema **JavaScript**, creando soluciones modernas y eficientes.
 
-Here are some ideas to get you started:
+✨ Además de mi enfoque en desarrollo, tengo experiencia con **CRM** y plataformas como **Salesforce Marketing Cloud**, lo que me permite entender e implementar estrategias tecnológicas centradas en el usuario y el negocio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Me apasiona la **ciberseguridad** y siempre estoy en búsqueda de aprender más sobre cómo proteger los entornos digitales en los que trabajamos.
+
+🚀 Me considero una persona **proactiva, creativa** y en constante crecimiento. Siempre estoy buscando colaborar en proyectos interesantes donde pueda aportar y aprender.
+
+---
+
+📬 **¿Quieres colaborar conmigo?**  
+Puedes contactarme por:
+
+- 📧 **Correo:** romejor3030@gmail.com  
+- 📱 **Teléfono:** +52 5531952656
